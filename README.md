@@ -1,6 +1,6 @@
-# MSc Dissertation Project — Interpretable Stellar Mass Estimation from Photometric Data
+# Interpretable Stellar Mass Estimation from Photometric Data
 
-*Interpretable machine learning model that recovers a physical law for galaxy stellar mass using only photometric data.*
+*Interpretable machine learning model that recovers a physical law for galaxy stellar mass using only photometric data.Research-based machine learning project derived from my MSc dissertation.*
 
 ## Overview
 
